@@ -4,7 +4,7 @@ This web application fetch and visualize electricity prices, which could be foun
 from Entsoe Transparency Platform [restful API](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html).
 
 In order to use it, you must register an account on this [link](https://transparency.entsoe.eu/usrm/user/createPublicUser)
-and also you will need to demand a Web Api Security Token. 
+and you will also need to demand a Web Api Security Token. 
 After you obtain a token, set it as an environment variable. 
 
 
