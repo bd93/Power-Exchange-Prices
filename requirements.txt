@@ -1,0 +1,11 @@
+django
+channels
+pypiwin32
+polling
+redis
+channels_redis
+requests
+xmljson
+celery
+django_celery_beat
+gevent

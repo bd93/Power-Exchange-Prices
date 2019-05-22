@@ -1,0 +1,17 @@
+.chart_container {
+    display: block;
+    width: 75%;
+}
+
+.button_container {
+    padding: 10px;
+    padding-left: 50px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#date {
+    font-weight: bold;
+}
