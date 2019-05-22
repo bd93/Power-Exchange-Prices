@@ -5,7 +5,7 @@ from Entsoe Transparency Platform [restful API](https://transparency.entsoe.eu/c
 
 In order to use it, you must register an account on this [link](https://transparency.entsoe.eu/usrm/user/createPublicUser)
 and you will also need to demand a Web Api Security Token. 
-After you obtain a token, set it as an environment variable. 
+After you obtain a token, set it as an environment variable (SECURITY_TOKEN). 
 
 
 #### How to run application
