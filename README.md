@@ -1,6 +1,6 @@
 # Power Exchange Prices
 
-This web application fetch electricity prices, which could be found on the well known Power Exchanges, 
+This web application fetch and visualize electricity prices, which could be found on the well known Power Exchanges, 
 from Entsoe Transparency Platform [restful API](https://transparency.entsoe.eu/content/static_content/Static%20content/web%20api/Guide.html).
 
 In order to use it, you must register an account on this [link](https://transparency.entsoe.eu/usrm/user/createPublicUser)
